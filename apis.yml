@@ -33,7 +33,7 @@ x-shutdown-date: '2011-09'
 x-domain-note: vark.com (original domain) no longer resolves (probed 2026-07-21, DNS NXDOMAIN);
   vark.io (the URL Felicis lists) returns 200 but hosts an unrelated SMS reminder product by
   Saasology LLC and is not this company.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
